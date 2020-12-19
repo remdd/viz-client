@@ -32,6 +32,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Vizlizer2 client</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main
