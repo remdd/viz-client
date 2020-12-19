@@ -1,0 +1,30 @@
+@import './viz.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Bungee';
+  src: url('./Bungee-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Bungee Shade';
+  src: url('./BungeeShade-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Bowlby One';
+  src: url('./BowlbyOneSC-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Freckle Face';
+  src: url('./FreckleFace-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Special Elite';
+  src: url('./SpecialElite-Regular.ttf')
+}
